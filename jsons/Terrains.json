@@ -5,7 +5,7 @@
 		"type": "Water",
 		"food": 1,
 		"gold": 1,
-		"movementCost": 1,
+		"movementCost": 2,
 		"RGB": [43, 87, 151]
 	},
 	{
